@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/build.gradle" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lenevo/pq/client/model/ClientConServerThread.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lenevo/pq/client/model/ManageClientConServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lenevo/pq/client/model/YQClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lenevo/pq/client/view/LoginActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lenevo/pq/client/view/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lenevo/pq/client/view/RegisterActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lenevo/pq/common/YQMessageType.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
